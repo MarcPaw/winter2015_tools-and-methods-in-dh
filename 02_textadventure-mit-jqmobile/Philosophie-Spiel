@@ -1,0 +1,344 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Was ist eigentlich Philosophie?</title>
+		<link type="text/css" rel="stylesheet" media="screen" href="css/style.css" />
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+	</head>
+
+	<header>
+		<div class="fullwidth">
+		<div class="row">
+			<h1>Was ist eigentlich Philosophie?</h1>
+		</div>
+	</header>
+
+	<body>
+		<div class="container" id="intro">
+			<div class="row">
+					<h1> Fragen über Fragen </h1>
+					<p class="block"> Fragst du dich bei den vielen Fragen, die du dir selbst stellst, manchmal: Ist das schon philosophisch? "Was ist der Sinn des Lebens?" Reicht das schon als philosophische Fragestellung oder muss da schon etwas mehr kommen?
+					<br>
+					Finde es selbst heraus. Zunächst ist zu klären: Kannst du die Frage theoretisch auch ignorieren? </p>
+			</div>
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4">
+					<p> Auf keinen Fall. Auch wenn ich keine Lösung finde, ich muss es zumindest versuchen.</p>
+					<div id="steuern_opt1"><img class="klickbild" src="img/p1.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-4">
+					<p> Kein Problem, da bin ich einfach hedonistisch.</p>
+					<div id="steuern_opt2"><img class="klickbild" src="img/hedonismus.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-4"></div>
+			</div>
+		</div>
+
+		<div id="opt1">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Gut geraten, wenn's philosophisch sein soll, ist es erst einmal nicht generell zu ignorieren. Jetzt stellt sich die Frage: Ist die Antwort auf deine Frage auch leicht zu finden?
+					</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Klaro. Ich bin intelligent und gebildet. Sollte kein Problem sein. </p>
+					<div id="steuern_opt3"><img class="klickbild" src="img/verstand.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> So einfach wird's wohl nicht sein. Dann könnte man solche Fragekomplexe wohl auch nicht studieren, sondern würde die Fragen mit gesundem Menschenverstand beantworten.
+					</p>
+					<div id="steuern_opt4"><img class="klickbild" src="img/p2.jpg" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div id="opt2">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block"> Wenn du das so siehst, sollten wir das hier direkt abbrechen, hat keinen Sinn. Beschäftige dich einfach nur mit dem Hedonismus als Geistesströmung; das könnte dich interessieren, aber ansonsten wird's nicht viel philosophischer... </p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro2"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+			</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		</div>
+
+		<div id="opt3">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block">Eigenlob stinkt! Mehr muss man dazu nicht sagen.. Mit der Einstellung wird das nix.
+					</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro3"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>
+			</div>
+				</div>
+			<div class="col-md-2"></div>
+		</div>
+			</div>
+		</div>
+	
+ 		<div id="opt4">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Gut erkannt. Wenn's so einfach wäre, könnte es ja jeder. Und apropos können: Denkst du, dass die Antwort auf deine Frage - wenn du denn überhaupt eine findest - beweisbar ist?</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Ich habe die böse Vermutung, dass das das nicht im Bereich des Möglichen liegt..</p>
+					<div id="steuern_opt5"><img class="klickbild" src="img/p3.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> Kein Problem! Wissenschaft ist doch Wissenschaft, oder? </p>
+					<div id="steuern_opt6"><img class="klickbild" src="img/einstein.jpg" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div id="opt5">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Leider richtig, philosophische Fragen und die entsprechenden Antworten sind leider nicht beweisbar. Und wenn du es nicht falsifizieren kannst, stellt sich die Frage, ob du dich mit 'richtiger' Wissenschaft beschäftigst... Orientierst du dich vielleicht in die falsche Richtung? Vielleicht ist Gott ja die Antwort? Könnte das sein?</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Quatsch, so einfach kann man sich da nicht herausziehen.</p>
+					<div id="steuern_opt7"><img class="klickbild" src="img/p4.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> Ja warum eigentlich nicht?!</p>
+					<div id="steuern_opt8"><img class="klickbild" src="img/religion.png" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div id="opt6">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block"> Ja...ne eher nicht.. Du denskt hier wohl eher an Mathematik oder Biologie. So einfach ist es bei philosophischen Fragen leider nicht. Sorry...</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro4"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>			
+			</div>
+		</div>
+				<div class="col-md-2"></div>
+		</div>
+			</div>
+		</div>
+
+		<div id="opt7">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Durchdachte Entscheidung! Doch einfacher wird die Suche nach dem Kern philosophicher Fragestellungen jetzt aber auch nicht. Denn wenn Gott nicht die Antwort ist, wer dann? Bin ich es vielleicht selbst?</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Ja! Warum bin ich da nicht sofort drauf gekommen?! Die Anwort war die ganze Zeit direkt vor mir!
+					</p>
+					<div id="steuern_opt9"><img class="klickbild" src="img/psychologie.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> Nee, ich kenn mich gut genug, um zu wissen, dass ich es nicht bin. Schön wär's, aber für allumfassende Antwort reicht mein Ego leider nicht aus.</p>
+					<div id="steuern_opt10"><img class="klickbild" src="img/p5.jpg" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div id="opt8">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block">Gong! Haben dich die Kirchenglocken verwirrt? Du hast wohl philosophisch mit theologisch verwechselt... Falls es keine Verwechslung war, beschäftige dich einfach mit Religion und überlass die Philosophie denen, die was davon verstehen. </p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro5"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>			
+			</div>
+		</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+			</div>
+
+		<div id="opt9">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block"> Schon wieder soviel Selbsteingenommenheit.. Nee, das ging daneben. Leg dich doch lieber mal auf die Couch.. und zwar am besten auf die von deinem Psychologen. Wenn du keinen hast, besorg dir besser schnell einen, man weiß ja nie. Falls dein Redebedarf aber noch eingeschränkt ist, tut es für den Anfang auch ein Einführungskurs in die Psychologie.</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro6"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>			
+			</div>
+		</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+			</div>
+
+		<div id="opt10">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Sehr gut! Das schränkt die Auswahl langsam aber sicher ein. Denn wenn die Gott nicht die Antwort ist und du selbst auch nicht, was bleibt dann noch übrig? Könnte es sein, dass alle anderen die Anwort sind? Würde doch passen, sind schließlich alle irgendwie von philosophischen Fragen betroffen.</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Klingt logisch! Betroffenheit und Art der Antwort würden dann perfekt zueinander passen. Endlich die Lösung!</p>
+					<div id="steuern_opt11"><img class="klickbild" src="img/soziologie.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> Klingt echt logisch! Aber ich bleibe skeptisch, das scheint mir dann doch zu einfach. Und irgendwie klingt das wieder nach einer anderen Wissenschaftsdisziplin. </p>
+					<div id="steuern_opt12"><img class="klickbild" src="img/p6.jpg" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+
+		<div id="opt11">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block"> Von einem Extrem ins andere... So einfach kommt man bei philosophischen Fragen dann doch nicht davon. Denn wenn alle anderen die Antwort sind, bist du ja völlig raus und kannst dich entspannt zurücklehnen. Tut mir leid, aber wenn du dich mit allen anderen beschäftigen willst, dann google mal lieber 'Soziologie'.</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro7"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>			
+			</div>
+		</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+			</div>
+
+		<div id="opt12">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Skepsis ist bei naheliegenden Antworten immer angebracht, also nochmal Glück gehabt. Weiter geht's: Der nächste Schritt auf dem Weg zur.. ähm.. Das ist mir jetzt peinlich, aber wir haben irgendwie den Faden verloren. Hast du auch schonvergessen, mit welcher Frage wir uns hier beschäftigen?</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Ohje.. wenn ich nicht aufpasse.. Natürlich weiß ich noch worum es geht! Also bitte weiter!</p>
+					<div id="steuern_opt13"><img class="klickbild" src="img/p7.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> Witzig, hab ich auch vergessen.. und jetzt? </p>
+					<div id="steuern_opt14"><img class="klickbild" src="img/politik.jpg" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+		<div id="opt13">
+		<div class="container">
+			<div class="row">
+					<h2> Richtig! </h2>
+					<p class="block"> Hervorragend! Wenigstens einer, der hier aufpasst. Wir nähern uns auch dem Ziel, irgendwie zumindest. Willst du denn weitermachen? Oder hast du gemerkt, dass dir die Frage nach philosophischen Fragen und Antworten mittlerweile egal ist?</p>
+			</div>
+			<div class="row">
+				<div class="col-md-5">
+					<p> Gut, dass du es ansprichst.. Denn ehrlich gesagt, reicht es mir langsam und so wirklich interessiert es mich auch nicht mehr. Viel zu schönes Wetter für sowas heute.</p>
+					<div id="steuern_opt15"><img class="klickbild" src="img/glueck.jpg" alt="Bild"/></div>
+				</div>
+				<div class="col-md-5">
+					<p> Ich bin soweit gekommen! Jetzt ziehe ich das auch durch! </p>
+					<div id="steuern_opt16"><img class="klickbild" src="img/p8.jpg" alt="Bild"/></div>
+				</div>
+			</div>
+		</div>
+		</div>
+
+
+		<div id="opt14">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block"> Also wenn du auch nicht aufpasst und wir hier nur umher irren und am Thema vorbeireden, ohne uns den wirklich wichtigen Antworten zu nähern, können wir es auch direkt lassen. Vielleicht versuchst du dich mal in der Politik, da wird auch oft weitergeredet, obwohl man die Frage wieder vergessen hat.</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro8"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>			
+			</div>
+		</div>
+				<div class="col-md-2"></div>
+		</div>
+			</div>
+		</div>
+		
+		<div id="opt15">
+		<div class="container">
+			<div class="row">
+					<h2> Falsch! </h2>
+					<p class="block"> Tja, Pech gehabt.. Aber was soll's. Denn wenn's egal ist, was die Antwort ist und du dich nicht weiter verrückt machst und auch so glücklich bist, kann man wohl nur noch sagen: Glück gehabt!</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro9"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/stop.jpg"></div>
+				<div class="col-md-2"></div>			
+			</div>
+		</div>
+				<div class="col-md-2"></div>
+		</div>
+			</div>
+		</div>
+	
+		<div id="opt16">
+		<div class="container">
+					<h2> Richtig! </h2>
+				<p class="block"> Glückwunsch! Jetzt bist du Philosoph! Denn wenn du alle anderen Antwortoptionen ausgeschlossen hast, du die Frage noch weißt und sie dich immer noch interessiert, dann muss es Philosophie sein... Antworten hast du jetzt leider immer noch nicht. Daher formuliere die Frage erneut und fang noch mal von vorn an.</p>
+			</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4"><div class="steuern_intro" id="steuern_intro10"><h3>Zurück zum Start</h3></div></div>
+				<div class="col-md-4"><img src="img/philosoph.jpg"></div>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="js/underscore-min.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+	</body>
+</html>
